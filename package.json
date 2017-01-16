@@ -1,0 +1,19 @@
+{
+  "name": "lambda-aws-test",
+  "version": "1.0.0",
+  "description": "Just testing automatic deploy of lambda functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtoledo23/lambda-aws-test.git"
+  },
+  "author": "Diego Toledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtoledo23/lambda-aws-test/issues"
+  },
+  "homepage": "https://github.com/dtoledo23/lambda-aws-test#readme"
+}
